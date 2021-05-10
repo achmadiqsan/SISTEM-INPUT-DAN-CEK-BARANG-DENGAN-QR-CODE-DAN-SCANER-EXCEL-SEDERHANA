@@ -3,6 +3,12 @@ SISTEM INPUT DAN CEK BARANG DENGAN QR CODE DAN SCANER EXCEL SEDERHANA
 
 ![Screenshot (98)](https://user-images.githubusercontent.com/57186921/117661075-7d64bd00-b1d0-11eb-9e90-54afee611659.png)
 
+TOOL UNTUK SCAN MENGGUNAKAN HP KE LAPTOP :
+
+https://barcodetopc.com/
+
+https://play.google.com/store/apps/details?id=com.barcodetopc&hl=in&gl=US
+
 NOTE :
 
 1. FILE FOLDER SUDAH ADA SOURCE CODE NYA
